@@ -1,0 +1,21 @@
+*{
+    font-family: sans-serif;
+    color: green;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+li, p{
+    font-size: 20px;
+}
+
+img{
+    height: auto;
+    width: 300px;
+}
